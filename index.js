@@ -83,6 +83,7 @@ client.on(`message`, async (message) => {
                  .setDescription(`
 Support Server - [Click Me](https://discord.gg/u4CbGW4qTT)
 Bot Link - [Click Me](https://discord.com/oauth2/authorize?client_id=758785943426564187&permissions=1076132928&scope=bot)
+Bot Vote - [Clilc Me](https://top.gg/bot/758785943426564187/vote)
 `)
                   .setTitle(`
 Join a voice channel and \`s!play\` a song.
