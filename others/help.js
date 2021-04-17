@@ -29,7 +29,7 @@ module.exports = {
 > \`lock . unlock . ban . unban . slowmode . giveaway\`
 
 **Links**
-[support](https://discord.gg/Zj5SFafHKG)    -    [invite](https://discord.com/api/oauth2/authorize?client_id=758785943426564187&permissions=1076132928&scope=bot)   -   [vote](https://top.gg/bot/758785943426564187/vote)
+[support](https://discord.gg/Zj5SFafHKG)    -    [invite](https://discord.com/api/oauth2/authorize?client_id=758785943426564187&permissions=1076132928&scope=bot)    -    [vote](https://top.gg/bot/758785943426564187/vote)
 `)
 
    .setFooter(`${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
